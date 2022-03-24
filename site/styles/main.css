@@ -1,0 +1,15 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+P{
+    line-height: 2;
+}
+img{
+    max-width: 100%;
+}
+
+p.read-btn{
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 700;
+}
